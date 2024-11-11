@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **third year computer science student at Ariel university**
  
- 🌱 I’m currently learning **Fullstack, AWS,Machine Learning**
+ 🌱 I’m currently learning **Machine Learning**
 
  👨‍💻 All of my projects are available at [https://github.com/Elnatan-lazar?tab=repositories](https://github.com/Elnatan-lazar?tab=repositories)
 
