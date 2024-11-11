@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **second year computer science student at Ariel university**
+ 🔭 I’m currently working on **third year computer science student at Ariel university**
  
  🌱 I’m currently learning **Fullstack, AWS,Machine Learning**
 
