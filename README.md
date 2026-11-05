@@ -12,10 +12,23 @@
 
 ### About me
 
-- 🎓 **B.Sc. Computer Science, Ariel University** — graduating 2026, GPA 86
-- 🪖 **Former IDF Armored Corps officer (Lieutenant)** — led soldiers and ran operations under pressure
-- 💻 I enjoy systems-level work in **C/C++** (networking, concurrency, OS internals) as well as **Java** and **Python**
-- 🔎 **Open to junior software engineering roles** — feel free to reach out
+- 💼 **Former Software Engineer Intern at Texas Instruments**, building test automation and CI/CD for embedded BLE devices
+- 🎓 **B.Sc. Computer Science, Ariel University**, graduating 2026 (GPA 86)
+- 🪖 **Former IDF Armored Corps officer (Lieutenant)**
+- 🔎 **Open to software engineering roles** in backend, automation and DevOps
+
+---
+
+### Professional experience
+
+**Software Engineer Intern · Texas Instruments** — Ra'anana, 2024–2025
+
+- Developed an automated security validation framework for Bluetooth Low Energy devices, testing them against the known SweynTooth vulnerabilities
+- Automated firmware flashing, test execution, log collection and pass/fail evaluation on physical embedded hardware with Python and pytest
+- Integrated the workflow into Jenkins CI/CD pipelines written in Groovy
+- Presented it to engineering teams and management; adopted by R&D for pre-release validation
+
+**Tech:** Python, pytest, Jenkins, Groovy, Git, TI UniFlash, BLE, embedded hardware (CC2640R2, CC2340R5, nRF52840)
 
 ---
 
@@ -34,10 +47,10 @@
 
 ### Tech
 
-**Languages:** C++ · C · Java · Python · JavaScript
+**Languages:** Python · C++ · C · Java · JavaScript · Groovy
 **Concepts:** OOP & design patterns · data structures & algorithms · TCP/UDP networking · multithreading · memory management
-**Tools:** Git · Linux · CMake · Bash
+**Tools:** Git · Jenkins · pytest · Linux · CMake · Bash
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,git,linux,cmake" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,git,jenkins,linux,cmake" />
 </p>
