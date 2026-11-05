@@ -1,74 +1,43 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Elnatan-lazar.visitor-badge)
+<h1 align="center">Hi, I'm Elnatan Lazar 👋</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Elnatan+Lazar!;" />
-</h1>
+<h3 align="center">Software Engineer · Final-year B.Sc. Computer Science, Ariel University</h3>
 
-<h3 align="center">A passionate software developer from Israel </h3>
+<p align="center">
+  <a href="https://elnatan-lazar.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elnatan-lazar-0b2aa4243"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:elnatan100@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **third year computer science student at Ariel university**
- 
- 🌱 I’m currently learning **Machine Learning**
+### About me
 
- 👨‍💻 All of my projects are available at [https://github.com/Elnatan-lazar?tab=repositories](https://github.com/Elnatan-lazar?tab=repositories)
+- 🎓 **B.Sc. Computer Science, Ariel University** — graduating 2026, GPA 86
+- 🪖 **Former IDF Armored Corps officer (Lieutenant)** — led soldiers and ran operations under pressure
+- 💻 I enjoy systems-level work in **C/C++** (networking, concurrency, OS internals) as well as **Java** and **Python**
+- 🔎 **Open to junior software engineering roles** — feel free to reach out
 
+---
 
+### Featured projects
 
+| Project | What it is | Stack |
+|---|---|---|
+| [**Operating Systems Projects**](https://github.com/Elnatan-lazar/operating-systems) | Four C/C++ systems projects: signals & IPC, a TCP/UDP server multiplexed with `select()`, a custom Reactor/Proactor library, and Eulerian-circuit detection served over TCP | C++, Linux, Pthreads, Sockets |
+| [**Monopoly — SFML Edition**](https://github.com/Elnatan-lazar/Monopoly-Game-Project) | Full Monopoly game with a graphical interface, animations, multiplayer and property trading | C++, SFML, CMake, OOP |
+| [**AI Search Algorithms**](https://github.com/Elnatan-lazar/Searching_Algorithms) | BFS and IDA* pathfinding with custom heuristics | Java |
+| [**Course Registration System**](https://github.com/Elnatan-lazar/Course-Registration-System) | Enrollment system built around Singleton, Factory and Observer patterns | Java, Design Patterns |
+| [**Mortar Game**](https://github.com/Elnatan-lazar/mortar-game) · [play it](https://elnatan-lazar.github.io/mortar-game/) | Browser cannon-shooting game | JavaScript, HTML5 Canvas |
+| [**Photo Date Sync**](https://github.com/Elnatan-lazar/Change-Dates-of-Photos) | Reads EXIF metadata and syncs file timestamps so photo libraries sort correctly | Python |
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:elnatan100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/elnatan-lazar-0b2aa4243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-</div>
+---
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,eclipse,idea,linux,pycharm" /><br>
-</div>
+### Tech
 
-<br/>
-<hr/>
+**Languages:** C++ · C · Java · Python · JavaScript
+**Concepts:** OOP & design patterns · data structures & algorithms · TCP/UDP networking · multithreading · memory management
+**Tools:** Git · Linux · CMake · Bash
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Elnatan-lazar/Elnatan-lazar/main/github-contribution-grid-snake.gif" />
-
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elnatan-lazar&theme=react" alt="GitHub Streak" /></a>
-  <br/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Elnatan-lazar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Elnatan-lazar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,git,linux,cmake" />
+</p>
